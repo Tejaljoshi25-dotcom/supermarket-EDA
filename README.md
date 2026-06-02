@@ -33,4 +33,4 @@ This project performs a comprehensive Exploratory Data Analysis (EDA) on a retai
 * **Environment:** Jupyter Notebook
   
   AUTHOR
-*  ** Tejal Joshi**
+  ** Tejal Joshi**
