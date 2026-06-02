@@ -1,4 +1,4 @@
-# supermarket-EDA
+# superstore sales-EDA
 
 # 🏆 Retail Superstore Sales & Logistics Optimization (EDA)
 
