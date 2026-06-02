@@ -31,5 +31,6 @@ This project performs a comprehensive Exploratory Data Analysis (EDA) on a retai
 * **Data Manipulation:** Pandas, NumPy
 * **Data Visualization:** Matplotlib, Seaborn
 * **Environment:** Jupyter Notebook
-*  AUTHOR
+  
+  AUTHOR
 *  ** Tejal Joshi**
